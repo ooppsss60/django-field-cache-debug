@@ -1,0 +1,2 @@
+class FieldCacheWarning(Warning):
+    pass
